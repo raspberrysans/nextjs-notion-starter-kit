@@ -56,7 +56,7 @@ export default siteConfig({
     },
     {
       title: 'Personal Blog',
-      pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
+      pageId: '1a5bc726173380669347f749597cfb8f'
     },
     {
       title: 'Projects',
